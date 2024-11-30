@@ -79,10 +79,10 @@ const nextConfig = {
   },
 }
 
-//export default nextConfig
+export default nextConfig
 // next.config.mjs
-export default {
-  env: {
-    NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL,
-  },
-}
+// export default {
+//   env: {
+//     NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL,
+//   },
+// }
